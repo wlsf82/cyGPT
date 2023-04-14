@@ -1,0 +1,16 @@
+{
+  "name": "cygpt",
+  "version": "1.0.0",
+  "description": "TBD.",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
